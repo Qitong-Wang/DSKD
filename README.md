@@ -27,15 +27,7 @@ All scripts use **`torchrun`** for multi-GPU distributed execution.
 
 ## Data Preprocessing
 
-The link to dataset: https://drive.google.com/file/d/1KcEj6uYaZK0r1dQFUxCcCUbitQiCRTew/view?usp=sharing 
-
-The link to Llama sense dictionary: https://drive.google.com/file/d/1Sa6L3JMY8y-D08AHcHOo-eGpomi7HPks/view?usp=sharing
-
-The link to Mistral sense dictionary: https://drive.google.com/file/d/1a6X1qFCskx6cAAnOTy77Y_elSDXXT2VZ/view?usp=sharing
-
-The link to Llama checkpoint: https://drive.google.com/file/d/12XWntyTQrDo2yHyWbNU-oUX201iSQQ7m/view?usp=sharing 
-
-The link to Mistral checkpoint: https://drive.google.com/file/d/1pu7U9Zv3kaBJW3AT-KUIqSvuDbuBhgnm/view?usp=sharing
+The link to dataset will be shared soon.
 
 If you want to reproduce:
 - Sense dictionary construction
